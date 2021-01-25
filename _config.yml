@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+title: Scarlet Au
+
+locale: en_US
+
+sidebar:
+- image: [profile-pic](https://github.com/smau8/smau8.github.io/blob/main/images/profile-picture.png)
+
+ 
