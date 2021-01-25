@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
 
 title: Scarlet Au
-
+description: GitHub page created with Jekyll
 locale: en_US
-
 
 logo: /images/profile-picture.png
 
