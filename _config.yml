@@ -5,6 +5,12 @@ title: Scarlet Au
 locale: en_US
 
 
-<img src="https://smau8.github.io/images/profile-picture.png" alt="profile picture">
+defaults:
+  values:
+    author_profile: true
+
+
+author:
+ avatar: "/images/profile-picture.png"
 
  
